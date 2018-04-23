@@ -66,7 +66,43 @@ Big Data is latest and hugely demand in the market, all my works or scripts rela
   Cloud based solutions are agile and low capital based solutions in the area of organizational data analysis. Organizations must face attention in breaking up the silos of informaiton.</br>
   Organization generated data benefits come from adding othertypes of data. </br>
   
+  In retail organisations Walmart uses bigdata heavily.250 Million customers and 10,000 stores.
+  They utilise, twitter data, local events, local weather and in-store purchases and on-line clicks.
+  Social media, Public events and General Media and Personal choices and on-line presence.
+  For new product launching, Improving predictive analytics and customize recommendations. </br>
   
+  By using bigdata companies are moving ahead in below sections. </br>
+  
+  * Efficient operations
+  * Higher scales
+  * Improved Safety
+  * Customer Satisfaction
+  * Better Profit Margins
+  * Improved Product Placement
+  
+  ###### Integrating Different Datasets 
+  * Carnival cruises case study is one example  
+    * Structured + Unstructured data + Price optimization = Increased Revenue
+    ##### Managing data and turning into something more knowledgeable.
+    ##### Data Integration process:
+    1. Discovering
+    2. Acessing 
+    3. Monitoring
+    4. Modeling
+    5. Transforming
+   ##### Different types of Data:
+    1. Flat files
+    2. Relational data from databases
+    3. XML Files data
+    4. JSON Files data
+    
+ After integrating all the data, we get richer data. Integration of Data from multiple sources decreases data complexity and increases the data usability.
+ Increase data collaboration.
+ 
+ What's one surprising or uncomfortable thing you may be providing data on?
+ Is there a non-social media (or shopping) application you realize you do give information to (perhaps that you hadn't thought of before)?
+ 
+    
   
         
         
