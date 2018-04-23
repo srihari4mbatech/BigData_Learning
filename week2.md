@@ -19,3 +19,10 @@ dimensions *Structural Variety*, *Media Variety*, *Semantic Variety*, *Availabil
 Some times one datasource may contain different variety of data.  </br>
     **Email System** this generates informaiton some as sturctured and unstructured. And Email system is realtime however
 Email Inbox is intemittent. 
+
+**Velocity :**
+Big data can influence quality of human life. Real-time processing of infromation required high velocity of data. </br>
+
+**Real-time Processing:**
+Speed of processing should inform speed of information generation. **Streaming Analysis**
+Precision of minute makes more important and some time precision of an year is more importance. 
