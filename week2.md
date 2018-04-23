@@ -130,8 +130,50 @@ WIFIRE Project is sample whch took data from many forms.</br>
 
 2. Step2-A: Exploring Data: </br>
 
-Correlation Graphs, General trends, Plotting Outliers. 
+Correlation Graphs, General trends, Plotting Outliers. Descriptive Statistics of data Sets. Visualize your data. Heatmaps, Histograms, Boxplots.
+Line graphs( how values change over time.) Scatter plots provides correlations between two variables.
+Data 
 
+3. Step2-B. Preprocessing Data: </br>
+
+Clean, Transform. Inconssistens values, Duplicate records, Missing values, invalid data and outliers.
+Addressig Data Quality issues, Generat best estimate for invalid values. 
+Data Munging, Datapreprocessing, Data Wrangling (Scalling, Feature selection, Dimensionality Reduction). 
+We do scalling it helps in making all the features in one range. 
+Aggregated data will decrease variations in its data.
+Data preparation is more important for meaningful analysis. (Garbage in = Garbage out)
+
+Market basket analysis, Association Rule analysis. 
+
+Communicating insights and building case study.
+what added value do these  results provide, What success rate do these result contribute. You should have tables of data. 
+R- software package for data analysis. 
+Python - General software language
+Tableau- public, D3.Js,Google Developers charts, Timeline Charts</br>
+
+1. Which of the following are parts of the 5 P's of data science and what is the additional P introduced in the slides? Purpose, people
+platforms,process, programmability,product and purpose.
+2. Which of the following are part of the four main categories to acquire, access, and retrieve data? except webservices all are to be selected
+3. What are the steps required for data analysis? Select Technique,build model and evaluate
+4. Of the following, which is a technique mentioned in the videos for building a model? analysis
+5. What is the first step in finding a right problem to tackle in data science? Define the problem
+6. What is the first step in determining a big data strategy? Business objectives
+7. According to Ilkay, why is exploring data crucial to better modeling? leads to data understanding which allows an informed analysis of the data.
+8. Why is data science mainly about teamwork? Data science requires a variety of expertise in different fields.
+9. What are the ways to address data quality issues? Except Datawrangling all are to be selected
+10. What is done to the data in the preparation stage? Cleaning, Integrating, and Packaging
+
+
+###Getting Started
+Distributed File System - Stores data in 
+A file system is responsible for storage of long time.
+Commodity clusters are affortable and less-specialized
+
+1. Which of the following is the best description of why it is important to learn about the foundations for big data? Foundations allow for the understanding of practical concepts in Hadoop.
+2. What is the benefit of a commodity cluster? Cost Effective
+3. What is a way to enable fault tolerance?
+4. What are the specific benefit(s) to a distributed file system? Except large storage all to be selected
+5. Which of the following are general requirements for a programming language in order to support big data models? Except utilizing Map reduction methods.
 
 
 

@@ -4,6 +4,9 @@
 
 [youtube video volume](https://www.youtube.com/watch?v=0fKBhvDjuy0)</br>
 
-[Simple Big data](http://words.sdsc.edu/words-data-science/big-data)
+[Simple Big data](http://words.sdsc.edu/words-data-science/big-data)</br>
 
-[DataScience Def](http://words.sdsc.edu/words-data-science/data-science)
+[DataScience Def](http://words.sdsc.edu/words-data-science/data-science)</br>
+
+[Map Reduce Link](http://words.sdsc.edu/words-data-science/mapreduce)
+
