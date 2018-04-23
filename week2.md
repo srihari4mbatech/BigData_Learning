@@ -111,4 +111,27 @@ To summarize, data science can be defined as a craft of using the five pieces id
 
 Big Data policies </br>
 
+**A problem well defined is a problem halfsolved**</br>
+
+**Typical Data Science iterative process:** </br>
+Acquire->Prepare->Analyze->Report->Act
+step1. - Acquiring Data
+step2-B.  - Prepare Data
+Step3.  - Analze Data
+Step4.  - Communicate Results
+Step5. - Applying Results
+
+1. Step1 - Acquiring Data:</br>
+
+ 
+NoSql examples are neo4j,mongoDB,cassandra.</br>
+
+WIFIRE Project is sample whch took data from many forms.</br>
+
+2. Step2-A: Exploring Data: </br>
+
+Correlation Graphs, General trends, Plotting Outliers. 
+
+
+
 

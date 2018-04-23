@@ -5,3 +5,5 @@
 [youtube video volume](https://www.youtube.com/watch?v=0fKBhvDjuy0)</br>
 
 [Simple Big data](http://words.sdsc.edu/words-data-science/big-data)
+
+[DataScience Def](http://words.sdsc.edu/words-data-science/data-science)
